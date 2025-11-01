@@ -46,7 +46,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'digikala.urls'
+ROOT_URLCONF = 'digikala3-1.urls'
 
 TEMPLATES = [
     {
@@ -64,7 +64,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'digikala.wsgi.application'
+WSGI_APPLICATION = 'digikala3-1.wsgi.application'
 
 
 # Database
