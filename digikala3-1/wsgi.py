@@ -1,5 +1,5 @@
 """
-WSGI config for digikala project.
+WSGI config for digikala3-1 project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
